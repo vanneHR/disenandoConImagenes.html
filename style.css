@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+body{
+    background-color: gray;
+}
+
+.contenedor-principal{
+    width: 100;
+    margin: 0 auto;
+    background-color: white;
+
+}
+
+h1
+,p{
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+}
+
+p{
+    background-color: yellowgreen;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.primera{
+    background-color: yellow;
+    
+}
+
+.segunda{
+    background-color: rgb(10, 191, 232);
+}
+
+.tercera{
+    background-color: pink;
+}
